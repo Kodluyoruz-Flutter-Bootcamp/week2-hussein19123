@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Diabetic Helper',
       theme: ThemeData(
-        primarySwatch: Colors.grey,
+        primarySwatch: Colors.cyan,
       ),
       home: HomePage(),
     );
