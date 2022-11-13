@@ -75,7 +75,7 @@ class _HomePageState extends State<HomePage> {
                             ),
                             child: Text(
                               insertions[index].insulin.toString(),
-                              style: TextStyle(color: Colors.cyan),
+                              style: TextStyle(color: Colors.white),
                             ),
                           ),
                         ]),
